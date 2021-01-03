@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**MarcDillar/MarcDillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+French :fr: Software Engineer currently located in Barcelona :es:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as **Technical Solution Engineer @ Criteo**
+- 🌱 I’m currently learning **Data Analysis w/ Python** :bar_chart:
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dillarm/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Strengths :muscle:
+
+### Learner :book:
+
+Learning is a neverending journey.
+I deeply believe that misunderstandings are the crux of many problems so I made constant learning a center of my life.
+I see knowledge as a tool for empowerment so I'm always striving to keep on learning and sharing knowledge to my peers.
+
+### Restorative
+
+I don't like problems. Nobody does. As a response to that, I grew good at dealing with them, whether they are technical or human.
+As soon as I sense that tension is brewing, I make a point of honor to figure out what is wrong and clean up the situation before if festers.
+
+### Harmony :cherry_blossom:
+
+I'm an advocate of consensus. I believe that a teams needs to find core areas of agreement in order to thrive.
