@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Who am I?
+## Who am I? :grey_question:
 French :fr: Software Engineer currently located in Barcelona :es:
 
 - 🔭 I’m currently working as **Technical Solution Engineer @ Criteo**
@@ -23,3 +23,8 @@ As soon as I sense that tension is brewing, I make a point of honor to figure ou
 ### Harmony :cherry_blossom:
 
 I'm an advocate of consensus. I believe that a teams needs to find core areas of agreement in order to thrive.
+
+## Links :link:
+
+[LinkedIn](https://www.linkedin.com/in/dillarm/)
+[Coding Game](https://www.codingame.com/profile/ade1241c8e40b0f663501dedbed701ba8105014)
