@@ -26,5 +26,5 @@ I'm an advocate of consensus. I believe that a teams needs to find core areas of
 
 ## Links :link:
 
-[LinkedIn](https://www.linkedin.com/in/dillarm/)
-[Coding Game](https://www.codingame.com/profile/ade1241c8e40b0f663501dedbed701ba8105014)
+- [LinkedIn](https://www.linkedin.com/in/dillarm/)
+- [Coding Game](https://www.codingame.com/profile/ade1241c8e40b0f663501dedbed701ba8105014)
