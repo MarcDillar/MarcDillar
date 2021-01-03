@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Who am I? :grey_question:
+## Who am I:grey_question:
 French :fr: Software Engineer currently located in Barcelona :es:
 
 - 🔭 I’m currently working as **Technical Solution Engineer @ Criteo**
