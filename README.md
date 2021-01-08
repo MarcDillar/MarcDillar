@@ -18,9 +18,7 @@ I see knowledge as a tool for empowerment so I'm always striving to keep on lear
 
 I believe that teams should foster harmony and cooperation.
 Inclusion takes a key role: all team members need to feel safe, heard and need to know that their voice is valued.
-Only can we all thrive if empathy, selflessness, open-mindedness and transparency are etched into the team's DNA.
-
-During these lockdown times this can get quite challenging, but I'm taking at heart to keep on encouraging knowledge sharing as well as open discussions.
+Only can we all thrive if empathy, selflessness, open-mindedness and transparency are etched into the team's DNA. During these lockdown times this can get quite challenging, but I'm taking at heart to keep on encouraging knowledge sharing as well as open discussions.
 
 ## :link: Links
 
