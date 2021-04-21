@@ -3,7 +3,7 @@
 I'm a French Software Engineer currently located in Barcelona
 
 - 🔭 I’m currently working as **Technical Solution Engineer @ Criteo**
-- 🌱 I’m currently learning **Data Analysis w/ Python** :bar_chart: and **Agile Project Management** :curly_loop::
+- 🌱 I’m currently learning **Data Analysis w/ Python** :bar_chart: and **Agile Project Management** :curly_loop:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dillarm/)
 
 ## My Fuel ✅
