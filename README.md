@@ -22,7 +22,7 @@ That is why, my number 1 conviction is that all knowledge should be open, availa
 ### Open Mindedness :high_brightness:
 
 We all only see the world through our own eyes but we need to be conscious that every single person envisions the universe in their own way.
-I am a deeply empathetic person and this is a trait of my personality I cherish. Questionning my beliefs, fighting my bias, envisioning situations from the others' perspective is part of my DNA. Keeping an open mind helps me not getting stuck in my own thought patterns.
+I am a deeply empathetic person and this is a trait of my personality I cherish. Questionning my beliefs, fighting my bias, envisioning situations from the others' perspective is part of my DNA. Keeping an open mind helps me not getting stuck in my own thoughts pattern.
 
 That is why I value open discussions, where opinions and thoughts can be shared without the fear of being judged.
 I believe in the wisdom of the crowd: difference of opinions is what makes our strength as a collaborative species.
