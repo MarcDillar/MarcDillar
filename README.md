@@ -10,7 +10,7 @@ I'm a French Software Engineer currently located in Barcelona
 
 ### Knowledge Sharing :book:
 
-Since my yougest age, I'm a curious person and I see knowledge as fertile ground for growth and empowerment.
+Since my yougest age, I have been a curious person and I have seen knowledge as fertile ground for growth and empowerment.
 Learning is a neverending journey and it's a path I'm following every single day of my life. A day without learning is a day lost.
 
 But more important than that, knowledge is worth nothing if it's not shared.
