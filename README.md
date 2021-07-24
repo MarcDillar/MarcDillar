@@ -28,12 +28,6 @@ That is why I value open discussions, where opinions and thoughts can be shared 
 I believe in the wisdom of the crowd: difference of opinions is what makes our strength as a collaborative species.
 And this can only be reached by encouraging open mindedness in every aspect of our lives.
 
-### Harmony :cherry_blossom:
-
-I believe that teams should foster harmony and cooperation.
-Inclusion takes a key role: all team members need to feel safe, heard and need to know that their voice is valued.
-Only can we all thrive if empathy, selflessness, open-mindedness and transparency are etched into the team's DNA. During these lockdown times this can be challenging, but I'm taking at heart to keep on encouraging open discussions.
-
 ## :link: Links
 
 - [LinkedIn](https://www.linkedin.com/in/dillarm/)
