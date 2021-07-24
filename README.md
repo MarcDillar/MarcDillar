@@ -6,20 +6,27 @@ I'm a French Software Engineer currently located in Barcelona
 - 🌱 I’m currently learning **Data Analysis w/ Python** :bar_chart: and **Agile Project Management** :curly_loop:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dillarm/)
 
-## My Fuel ✅
+## My Values ✅
 
-### Learning :book:
+### Knowledge Sharing :book:
 
-Learning is a neverending journey.
-I deeply believe that misunderstandings are the crux of many problems so I made constant learning a center of my life.
-I see knowledge as a tool for empowerment so I'm always striving to keep on learning and sharing knowledge to my peers.
+Since my yougest age, I'm a curious person and I see knowledge as fertile ground for growth and empowerment.
+Learning is a neverending journey and it's a path I'm following every single day of my life. A day without learning is a day lost.
+
+But more important than that, knowledge is worth nothing if it's not shared.
+When I'm learning something new, the first thing I'm striving to do is to share this fresh new knowledge to my peers, just like so many others (teachers, friends or peers) shared their knowledge with me.
+
+I believe in cooperation, not in confrontation. A team, a group, a people where knowledge is withheld by the lucky few is ineluctably bound to fail.
+That is why, my number 1 conviction is that all knowledge should be open, available, spread and valued.
 
 ### Open Mindedness :high_brightness:
 
-Plato said "I know that I know nothing". I guess this describes my current state of mind.
-I believe I'm right in the middle of the valley of despair described by David Dunning and Justin Kruger. The "slope of enlightment" is still ahead of me and it is a long and steep way.
-My best ally to climb this path is to remain open to the world during this pivotal moment. Doubting my beliefs, questioning my bias, listening to others provide grist to my mill.
-Open Mindedness is my hiking pole on my way up.
+We all only see the world through our own eyes but we need to be conscious that every single person envisions the universe in their own way.
+I am a deeply empathetic person and this is a trait of my personality I cherish. Questionning my beliefs, fighting my bias, envisioning situations from the others' perspective is part of my DNA. Keeping an open mind helps me not getting stuck in my own thought patterns.
+
+That is why I value open discussions, where opinions and thoughts can be shared without the fear of being judged.
+I believe in the wisdom of the crowd: difference of opinions is what makes our strength as a collaborative species.
+And this can only be reached by encouraging open mindedness in every aspect of our lives.
 
 ### Harmony :cherry_blossom:
 
